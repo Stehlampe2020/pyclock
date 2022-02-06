@@ -1,6 +1,6 @@
 # PyClock
 This is a very simple Python3.8-based terminal clock.   
-It syncronizes with the internal system clock every 10 seconds. 
+It syncronizes with the internal system clock every 10 seconds.   
 Note: that just corrects the numbers, not the waiting times themselves, so the clock may be up to one second off real-time!   
 
 # install-pyclock.sh
